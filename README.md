@@ -2,7 +2,7 @@
 
 > **Enterprise-Scale Documentation Portfolio** | Senior Technical Writer Leadership Showcase | 50+ Strategic Documentation Frameworks
 
-A comprehensive enterprise documentation program portfolio demonstrating senior-level technical writing leadership, information architecture design, and governance frameworks for smart infrastructure, civil engineering, transportation, utilities, and water management domains.
+A comprehensive enterprise documentation program portfolio demonstrating technical writing leadership, information architecture design, and governance frameworks for smart infrastructure, civil engineering, transportation, utilities, and water management domains.
 
 ![Documentation Status](https://img.shields.io/badge/Status-Complete-green?style=flat-square)
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)

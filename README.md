@@ -15,6 +15,13 @@ A comprehensive enterprise documentation program portfolio demonstrating technic
 
 This portfolio contains **50+ strategic documentation frameworks**, operating manuals, governance models, and KPI dashboards—demonstrating a complete enterprise documentation architecture for complex infrastructure systems. Built with modern documentation tools and designed to showcase end-to-end documentation program delivery.
 
+
+
+<img width="807" height="546" alt="Image" src="https://github.com/user-attachments/assets/41ff527a-09ad-4d22-a7f1-0464c3e03e77" />
+
+
+
+
 ### Visit the project live at:  [https://ashish-augustine.github.io/techwriter-smartinfra/](https://ashish-augustine.github.io/techwriter-smartinfra/)
 
 ### Portfolio Scope

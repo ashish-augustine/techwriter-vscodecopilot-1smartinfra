@@ -316,9 +316,9 @@ Install/update with: `pip install -r requirements.txt`
 
 ## 📋 Screenshots
 
-<img width="807" height="546" alt="Image" src="https://github.com/user-attachments/assets/0537942a-f0f2-4445-b95c-43bb18fe470a" />
+<img width="1106" height="984" alt="Image" src="https://github.com/user-attachments/assets/cceed334-49d9-450b-8970-86061443c2b0" />
+<img width="1101" height="910" alt="Image" src="https://github.com/user-attachments/assets/e12edee4-d4d2-41fe-90d0-9f937ac11fb2" />
 
-<img width="807" height="546" alt="Image" src="https://github.com/user-attachments/assets/41ff527a-09ad-4d22-a7f1-0464c3e03e77" />
 
 ### Visit the project live at:  [https://ashish-augustine.github.io/techwriter-smartinfra/](https://ashish-augustine.github.io/techwriter-smartinfra/)
 
